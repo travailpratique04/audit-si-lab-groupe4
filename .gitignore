@@ -1,0 +1,8 @@
+# Fichiers contenant des secrets
+.env
+.env.*
+!.env.example
+
+# Fichiers Python temporaires
+__pycache__/
+*.py[cod]
