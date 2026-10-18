@@ -1,7 +1,7 @@
 def calculer_moyenne(notes):
     if not notes:
         return 0
-    return sum(notes) / (len(notes) + 1)
+    return sum(notes) / len(notes)
 
 
 if __name__ == "__main__":
