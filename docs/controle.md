@@ -12,3 +12,5 @@ Vérifier la visibilité, les accès et la traçabilité des modifications.
 
 ## Résultat
 Contrôle en cours.
+
+Test de protection de la branche main.
